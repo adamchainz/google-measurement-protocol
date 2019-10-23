@@ -15,6 +15,7 @@ CLASSIFIERS = [
 setup(
     name='google-measurement-protocol',
     author='Mirumee Software',
+    url='https://github.com/mirumee/google-measurement-protocol',
     author_email='hello@mirumee.com',
     description=(
         'A Python implementation of Google Analytics Measurement Protocol'),
